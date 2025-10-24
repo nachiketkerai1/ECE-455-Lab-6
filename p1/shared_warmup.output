@@ -1,0 +1,7 @@
+in[0] = 42.6071, out[0] = 1815.37
+in[1] = 20.8783, out[1] = 435.901
+in[2] = 4.92263, out[2] = 24.2323
+in[3] = 22.1611, out[3] = 491.116
+in[4] = 16.9565, out[4] = 287.523
+
+Success! Computed squares using shared memory.
